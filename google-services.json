@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "601616374412",
+    "project_id": "login-4d2b6",
+    "storage_bucket": "login-4d2b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601616374412:android:88d0fac5b34830c68939a9",
+        "android_client_info": {
+          "package_name": "com.abrarsardar.GoogleLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601616374412-9nv61b3jg39nvr1tat4eu5k9vr7muhm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abrarsardar.GoogleLogin",
+            "certificate_hash": "a296bfd581d92252ab00a0f00f149a8c752cae4b"
+          }
+        },
+        {
+          "client_id": "601616374412-vst5oh51qaqdmccvdqs1st0tvq329dmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abrarsardar.GoogleLogin",
+            "certificate_hash": "2e3dee5269d5356423e590f3fd45a4b596ed4a3b"
+          }
+        },
+        {
+          "client_id": "601616374412-gm653pgm0c276jqkl2hqvti1ufp4l08f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7_-Y4eZ12hJ1rUbj1P2FRygBlr_aF1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601616374412-gm653pgm0c276jqkl2hqvti1ufp4l08f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601616374412:android:407d9e95bb6ac1a18939a9",
+        "android_client_info": {
+          "package_name": "com.abrarsardar.GoogleLogina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601616374412-471r4p7h8e52kp38chlnsj57asbbkjl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abrarsardar.GoogleLogina",
+            "certificate_hash": "04392de870a73bec477fbd77b45ff6885c91e313"
+          }
+        },
+        {
+          "client_id": "601616374412-vsph02ba4j4ms0q383v3fdls938gaseq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abrarsardar.GoogleLogina",
+            "certificate_hash": "5f66e774974d8a6223aa9187512e70a62334feb1"
+          }
+        },
+        {
+          "client_id": "601616374412-gm653pgm0c276jqkl2hqvti1ufp4l08f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj7_-Y4eZ12hJ1rUbj1P2FRygBlr_aF1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601616374412-gm653pgm0c276jqkl2hqvti1ufp4l08f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
